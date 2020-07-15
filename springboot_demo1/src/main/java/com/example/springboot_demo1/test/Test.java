@@ -16,5 +16,6 @@ public class Test {
         int i = 10;
         int m = 5;
         System.out.println(i+m);
+        System.out.println(i*m);
     }
 }

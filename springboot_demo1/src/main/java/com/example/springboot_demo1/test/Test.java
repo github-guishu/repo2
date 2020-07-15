@@ -14,9 +14,12 @@ public class Test {
         //同步的操作
     }
     public void test1(){
+
         int i = 10;
         int m = 5;
+        //这是一个简单的加法运算
         System.out.println(i+m);
+        //这是一个简单的乘法运算
         System.out.println(i*m);
     }
 }

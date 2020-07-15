@@ -11,6 +11,7 @@ public class Test {
         System.out.println("hello ");
         System.out.println("hello git ");
         System.out.println("hello git project");
+        //同步的操作
     }
     public void test1(){
         int i = 10;
